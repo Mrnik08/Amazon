@@ -1,0 +1,35 @@
+.add-first{
+    display:none;
+}
+.add-second{
+    display:none;
+}
+.nav-second{
+    display: none;
+}
+.nav-returns{
+    display: none;
+}
+.add-icon{
+    display: none;
+}
+.navbar{
+    height: 100px;
+    background-color:#222f3d;
+}
+.search-select{
+    display:none;
+}
+.nav-search{
+    display: flex;
+    flex-direction:column-reverse;
+    margin-top: 20px;
+}
+.nav-search:hover{
+    border:2px solid orange;
+    border-radius: 4px;
+}
+.search-icon{
+    display: flex;
+    flex-direction: column-reverse;
+}
